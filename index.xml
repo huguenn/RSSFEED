@@ -6,6 +6,13 @@
   <language>es</language>
   <copyright> Copyright Kyndryl - All rights reserved </copyright>
   <ttl>10</ttl>
+     <item>
+      <title> Descargar Reporte </title>
+      <link>http://9.208.71.174/MachineBuilder/report.csv</link>
+      <description> Ejecutado correctamente Test 3! </description>
+      <guid isPermaLink="true"> https://linkalarchivo.com/archivo.csv </guid>
+      <pubDate>Tue, 26 Jul 2022 12:15:59 -0300</pubDate>
+    </item>
     <item>
       <title> Test Ansible 2 </title>
       <link> https://linkalarchivo.com/archivo.csv </link>
