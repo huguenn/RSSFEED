@@ -1,0 +1,17 @@
+<rss version="2.0">
+<channel>
+<title>ESD Feed</title>
+<link>https://esd.kyndryl.net</link>
+<description>ESD Feed - Home</description>
+<language>es</language>
+<copyright> Copyright Kyndryl - All rights reserved </copyright>
+<ttl>10</ttl>
+<item>
+<title> Test Ansible </title>
+<link> https://linkalarchivo.com/archivo.csv </link>
+<description> Ejecutado correctamente! </description>
+<guid isPermaLink="true"> https://linkalarchivo.com/archivo.csv </guid>
+<pubDate>Tue, 26 Jul 2022 11:37:59 -0300</pubDate>
+</item>
+</channel>
+</rss>
