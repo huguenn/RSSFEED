@@ -5,7 +5,7 @@
   <description>ESD Feed - Home</description>
   <language>es</language>
   <copyright> Copyright Kyndryl - All rights reserved </copyright>
-  <ttl>10</ttl>
+  <ttl>1</ttl>
           <item>
       <title> Descargar Reporte </title>
       <link>https://raw.githubusercontent.com/huguenn/rsssfeed-storage/main/files/reports/report1010.csv</link>
