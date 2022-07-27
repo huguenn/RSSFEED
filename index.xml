@@ -6,7 +6,14 @@
   <language>es</language>
   <copyright> Copyright Kyndryl - All rights reserved </copyright>
   <ttl>1</ttl>
-              <item>
+    <item>
+      <title> Playbook XXXX Ejecutado</title>
+                <description> <![CDATA[ <strong>Exito!</strong> <br/> Ejecutado correctamente Test 8 con Storage en Github <br/> 
+                Playbook XXXXXXXXXXXXX<br/> 
+                <a src="https://raw.githubusercontent.com/huguenn/rsssfeed-storage/main/files/reports/report1010.csv">Descargar Reporte Aqui</a>]]> </description>
+      <pubDate>Tue, 26 Jul 2022 12:30:59 -0300</pubDate>
+    </item>
+    <item>
       <title> Descargar Reporte </title>
       <link>https://raw.githubusercontent.com/huguenn/rsssfeed-storage/main/files/reports/report1010.csv</link>
                 <description> <![CDATA[ <strong>Exito!</strong> <br/> Ejecutado correctamente Test 8 con Storage en Github!]]> </description>
